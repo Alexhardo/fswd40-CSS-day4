@@ -1,2 +1,51 @@
+.container {
+	font-family: "Gaegu" ;
+    width: 800px;
+    margin: 0 auto;
+    /*justify-content: center ;*/
+    text-shadow: 11px 10px 10px #fe435f;
+}
+#centerwrap {
+	position: absolute  ;
+	top: 0px  ;
+	left: 50%  ;
+	margin-left: -500px ;
 
-h3 {	background-color: yellow ;}
+}
+
+p,li {
+    color: #707070;
+}
+
+h1 {
+    text-align: center;
+    color: #DB0038;
+}
+
+h2 {
+    color: #3998A3;
+}
+
+h3 {
+    color: #474747;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+li {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.rating {
+	color: #f4b400 ;
+	font-size: 25px  ;
+}
+footer {
+	text-align: center ;
+
+}
