@@ -3,7 +3,7 @@
     width: 800px;
     margin: 0 auto;
     /*justify-content: center ;*/
-    text-shadow: 11px 10px 10px #fe435f;
+    box-shadow:  7px 11px 10px 7px #fe435f;
 }
 #centerwrap {
 	position: absolute  ;
